@@ -7,12 +7,12 @@
             "name": "Fantasy Flight Games"
         }
     ],
-    "systems": [
+    "system": [
         {
             "id": "sw5e"
         }
     ],
-    "version": "1.0.0",
+    "coreVersion": "1.0.0",
     "compatibility": {
         "minimum": "9",
         "verified": "11",
